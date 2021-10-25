@@ -1,2 +1,2 @@
 # project
-New project
+Another repository of Machine Learning
